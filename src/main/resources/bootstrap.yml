@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    vault:
+      application-name: spring_cloud_vault
+      enable: true
+      fail-fast: true
+      host: localhost
+      port: 8200
+      scheme: http
+      token: 639e5860-c609-97bd-1a0a-3a06d5c90003
